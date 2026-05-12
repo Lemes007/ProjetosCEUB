@@ -1,40 +1,100 @@
-# Intro_a_computacao
+# Introdução à Computação
 
-09/03/26 - Atividade de Investigação: Arqueologia Digital e a Evolução dos Componentes Gianne Clarice, Guilherme Valadão, João Miguel e Davi Lemes.
+Repositório para estudos e investigações sobre a evolução dos componentes de computação através da história.
 
-Ps1 As Unidades Lógicas e Aritméticas (ULA) do PlayStation 1 (PS1) faziam parte da CPU principal, Suma LSI R3000A customizada (RISC) de 32 bits, que operava a uma frequência de 33.86 MHz.
+## Sobre
 
-O fluxo de processamento e coordenação de dados do PlayStation 1 (PS1) era focado em maximizar o desempenho 3D com um hardware limitado, utilizando uma arquitetura baseada em componentes especializados que trabalhavam em conjunto.
+Este repositório documenta atividades de investigação focadas na arqueologia digital e na evolução dos componentes computacionais, explorando a história das tecnologias de processamento desde seus primórdios até os dias atuais.
 
-O cartão de memória (Memory Card) original do PS1 tem uma capacidade de 1 MB (megabyte), o que corresponde a 128 KB ou 15 blocos de armazenamento. Estes blocos permitem salvar o progresso de diferentes jogos, sendo um acessório essencial para o console.
+## Conteúdo Principal
 
-O PlayStation 1 (PS1) possuía uma variedade de periféricos de entrada e saída que definiram sua geração (1994-2006). Eles variam entre os controles padrão e acessórios especializados para aumentar a imersão nos jogos.
+### PlayStation 1 (1994)
 
-Ps5 A Unidade Lógica e Aritmética (ULA) ou Arithmetic Logic Unit (ALU) do PlayStation 5 é parte integrante da sua APU (Unidade de Processamento Acelerado) personalizada, projetada pela AMD. Ela faz parte da arquitetura RDNA 2 na GPU e da arquitetura Zen 2 na CPU, oferecendo alto poder de processamento para jogos.
-O fluxo de ar e a refrigeração do PlayStation 5 (PS5) foram projetados de forma coordenada para garantir alta performance sem superaquecimento, utilizando uma abordagem de "entrada dupla" e componentes de alta eficiência.
+**Processamento**
+- CPU LSI R3000A customizada (RISC) de 32 bits
+- Frequência de operação: 33.86 MHz
+- ULA (Unidade Lógica e Aritmética) integrada à CPU
 
-O PlayStation 5 original possui um SSD de 825 GB, mas o espaço utilizável para jogos é de aproximadamente 667 GB devido ao sistema operacional. Modelos mais recentes, como o PS5 Slim, podem vir com 1 TB de armazenamento, e o PS5 Pro possui 2 TB.
+**Armazenamento**
+- Memory Card original com capacidade de 1 MB (megabyte)
+- 128 KB ou 15 blocos de armazenamento
+- Permitia salvar progresso de diferentes jogos
 
-O PlayStation 5 (PS5) possui diversos periféricos de entrada (para comandos e dados) e saída (para exibição e áudio), tanto nativos quanto compatíveis via USB/Bluetooth.
+**Sistema de Refrigeração**
+- Dissipação passiva simples
+- Design focado em maximizar desempenho 3D com hardware limitado
 
-PRINCIPAIS DIFERENÇAS CONCEITUAIS:
+**Periféricos**
+- Controles padrão
+- Acessórios especializados para diferentes tipos de jogos
 
-Capacidade de Processamento: O PS5 possui poder computacional milhões de vezes superior, com múltiplas ULAs trabalhando em paralelo.
+### PlayStation 5 (2020)
 
-Armazenamento: Enquanto o PS1 media salvamentos em kilobytes (cartões de 1 MB), o PS5 opera na escala de terabytes e utiliza SSD para carregamento instantâneo.
+**Processamento**
+- APU (Unidade de Processamento Acelerado) personalizada pela AMD
+- Múltiplas ULAs trabalhando em paralelo
+- Poder computacional milhões de vezes superior ao PS1
 
-Integração de Componentes: O PS5 unifica processamento gráfico e aritmético em uma APU com arquiteturas especializadas (RDNA 2 para gráficos, Zen 2 para processamento geral).
+**Armazenamento**
+- SSD de 825 GB
+- Espaço utilizável para jogos: aproximadamente 667 GB
+- Carregamento instantâneo de dados
 
-Refrigeração: O PS1 utilizava dissipação passiva simples, o PS5 exige sistema sofisticado de fluxo de ar coordenado devido à alta densidade térmica.
+**Sistema de Refrigeração**
+- Sistema sofisticado de fluxo de ar coordenado
+- Abordagem de "entrada dupla"
+- Necessário devido à alta densidade térmica
 
-Conectividade: Evolução de controles cabeados para ecossistema sem fio (Bluetooth) e maior variedade de periféricos
+**Periféricos**
+- Ecossistema sem fio via Bluetooth
+- Maior variedade de acessórios
+- Compatibilidade com USB
 
-Tabela comparativa PS1 e PS5 Componente PS1 (1994) PS5 (2020) ULA / Processamento CPU LSI R3000A customizada (RISC) de 32 bits, operando a 33,86 MHz, com ULA integrada à CPU. ULA integrada à APU AMD personalizada, utilizando arquitetura Zen 2 (CPU) e RDNA 2 (GPU), com múltiplas unidades trabalhando em paralelo. Fluxo de Processamento Arquitetura baseada em componentes especializados, focada em extrair o máximo desempenho 3D de hardware limitado. Sistema altamente integrado com APU moderna, permitindo processamento paralelo e maior eficiência em jogos. Armazenamento / Salvamento Memory Card de 1 MB (128 KB utilizáveis) dividido em 15 blocos, usado para salvar progresso dos jogos. SSD interno de 825 GB, com cerca de 667 GB utilizáveis, podendo chegar a 1 TB ou 2 TB em versões mais recentes. Refrigeração Sistema simples de dissipação passiva, suficiente devido ao baixo consumo de energia. Sistema avançado de fluxo de ar coordenado, com entrada dupla e refrigeração eficiente para suportar alto desempenho. Periféricos Controles padrão, DualShock, Memory Card e acessórios especializados para ampliar a experiência de jogo. DualSense, periféricos USB e Bluetooth, além de diversos dispositivos de entrada e saída para áudio e vídeo. Conectividade com periféricos Conexões principalmente cabeadas. Conexões USB e Bluetooth, com maior variedade de dispositivos compatíveis.
+## Principais Diferenças Conceituais
 
-Fontes: https://www.thegamer.com/tag/playstation/16/
+**Capacidade de Processamento**
+PS5 possui poder computacional milhões de vezes superior, com múltiplas ULAs trabalhando em paralelo.
 
-https://www.gosugamers.net/entertainment/news/77339-playstation-5-update-makes-dualsense-controller-work-on-multiple-devices
+**Armazenamento**
+PS1 media salvamentos em kilobytes (cartões de 1 MB), enquanto PS5 opera na escala de terabytes utilizando SSD para carregamento instantâneo.
 
-https://www.desertcart.in/products/253947734-hyperkin-tomee-1mb-memory-card-for-ps1
+**Integração de Componentes**
+PS5 unifica processamento gráfico e aritmético em uma APU com arquiteturas especializadas:
+- RDNA 2 para processamento gráfico
+- Zen 2 para processamento geral
 
-https://www.computinghistory.org.uk/cgi/archive.pl?order=Date&platform=Playstation%201&type=Peripherals
+**Refrigeração**
+PS1 utilizava dissipação passiva simples, enquanto PS5 exige sistema sofisticado de fluxo de ar coordenado.
+
+**Conectividade**
+Evolução de controles cabeados para ecossistema sem fio (Bluetooth) e maior variedade de periféricos.
+
+## Tabela Comparativa
+
+| Componente | PS1 (1994) | PS5 (2020) |
+|-----------|-----------|-----------|
+| Processador | CPU LSI R3000A customizada (RISC) 32 bits, 33.86 MHz | APU customizada AMD com múltiplos núcleos |
+| Armazenamento | 1 MB (Memory Card) | 825 GB SSD (667 GB utilizável) |
+| Refrigeração | Passiva simples | Sistema ativo sofisticado |
+| Conectividade | Cabeado | Sem fio (Bluetooth/USB) |
+| Performance | 33.86 MHz | Múltiplos GHz |
+
+## Contribuidores
+
+- Gianne Clarice
+- Guilherme Valadão
+- João Miguel
+- Davi Lemes
+
+Data de Criação: 09 de Março de 2026
+
+## Referências
+
+- [The Gamer - PlayStation](https://www.thegamer.com/tag/playstation/16/)
+- [GosuGamers - PlayStation 5 DualSense Controller](https://www.gosugamers.net/entertainment/news/77339-playstation-5-update-makes-dualsense-controller-work-on-multiple-devices)
+- [Hyperkin Tomee 1MB Memory Card for PS1](https://www.desertcart.in/products/253947734-hyperkin-tomee-1mb-memory-card-for-ps1)
+- [Computing History - PlayStation 1 Peripherals](https://www.computinghistory.org.uk/cgi/archive.pl?order=Date&platform=Playstation%201&type=Peripherals)
+
+## Licença
+
+Este projeto é de código aberto e disponível publicamente.
