@@ -1,14 +1,14 @@
-# 📚 ProjetosCEUB
+# ProjetosCEUB
 
 > Repositório contendo atividades e projetos desenvolvidos na CEUB (Centro Universitário de Brasília)
 
-## 📋 Sobre
+## Sobre
 
 Este repositório reúne minhas atividades, pesquisas e projetos realizados durante meus estudos na CEUB (Centro Universitário de Brasília). Os projetos abrangem diferentes áreas da Informática e Tecnologia, com foco em pesquisa e aplicação prática dos conceitos aprendidos em aula.
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 ProjetosCEUB/
@@ -27,9 +27,9 @@ ProjetosCEUB/
 
 ---
 
-## 📖 Conteúdo
+## Conteúdo
 
-### 📂 Pasta `documentação`
+### Pasta `documentação`
 
 Nesta pasta estão armazenados todos os documentos e relatórios das atividades realizadas:
 
@@ -49,33 +49,33 @@ Nesta pasta estão armazenados todos os documentos e relatórios das atividades 
 
 ---
 
-## 🎯 Objetivos do Repositório
+## Objetivos do Repositório
 
-✅ Organizar e documentar minhas atividades acadêmicas  
-✅ Facilitar o acesso e compartilhamento de pesquisas  
-✅ Manter um portfólio de projetos escolares  
-✅ Aplicar boas práticas de controle de versão  
-✅ Demonstrar desenvolvimento profissional contínuo  
+- Organizar e documentar minhas atividades acadêmicas  
+- Facilitar o acesso e compartilhamento de pesquisas  
+- Manter um portfólio de projetos escolares  
+- Aplicar boas práticas de controle de versão  
+- Demonstrar desenvolvimento profissional contínuo  
 
 ---
 
-## 🛠️ Tecnologias e Linguagens
+## Tecnologias e Linguagens
 
 ### Linguagens de Programação e Markup:
-- 🔤 **Portugol** - Pseudocódigo para lógica de programação
-- 🌐 **HTML5** - Estrutura de páginas web
-- 🎨 **CSS3** - Estilização e design responsivo
-- 📜 **JavaScript** - Interatividade e animações
+- **Portugol** - Pseudocódigo para lógica de programação
+- **HTML5** - Estrutura de páginas web
+- **CSS3** - Estilização e design responsivo
+- **JavaScript** - Interatividade e animações
 
 ### Ferramentas e Formatos:
-- 📝 Documentação em Word/PDF
-- 🔍 Pesquisa acadêmica
-- 📊 Análise e relatórios
-- 🐙 Controle de versão com Git/GitHub
+- Documentação em Word/PDF
+- Pesquisa acadêmica
+- Análise e relatórios
+- Controle de versão com Git/GitHub
 
 ---
 
-## 🌐 GitHub Pages
+## GitHub Pages
 
 Este repositório possui uma página web profissional hospedada no GitHub Pages:
 
@@ -89,7 +89,7 @@ O site inclui:
 
 ---
 
-## 📌 Como Usar Este Repositório
+## Como Usar Este Repositório
 
 ### 1. Clone o repositório:
 ```bash
@@ -111,17 +111,18 @@ ou visite: https://lemes007.github.io/ProjetosCEUB/
 
 ---
 
-## 🎓 Disciplinas Relacionadas
+## Disciplinas Relacionadas
 
-- 💻 Informática Pessoal
-- 🔌 Dispositivos de Entrada e Saída (E/S)
-- 📜 História da Computação
-- 💡 Tecnologia e Inovação
-- 🔤 Lógica de Programação (Portugol)
+- Introdução a Computação
+- Banco de Dados
+- Engenharia de Softwear
+- Lógica de Programação
+- Bootcamp
+- Fundamentos de Engenharia
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 | Métrica | Valor |
 |---------|-------|
@@ -133,7 +134,7 @@ ou visite: https://lemes007.github.io/ProjetosCEUB/
 
 ---
 
-## 📞 Contato e Redes Sociais
+## Contato e Redes
 
 Fique à vontade para entrar em contato comigo:
 
@@ -144,7 +145,7 @@ Fique à vontade para entrar em contato comigo:
 
 ---
 
-## 📅 Informações Gerais
+## Informações Gerais
 
 - **Criado em**: 09 de março de 2026
 - **Última atualização**: 17 de maio de 2026
@@ -153,18 +154,6 @@ Fique à vontade para entrar em contato comigo:
 
 ---
 
-## 📝 Licença
+## Licença
 
 Este repositório contém trabalhos acadêmicos. Sinta-se livre para usar como referência ou inspiração, mas sempre cite a fonte quando apropriado.
-
----
-
-## 🙏 Agradecimentos
-
-Agradeço à **CEUB (Centro Universitário de Brasília)** pela oportunidade de aprendizado e desenvolvimento profissional.
-
----
-
-**Desenvolvido com dedicação durante meus estudos na CEUB** ✨
-
-> "O conhecimento é o poder. Compartilhe-o." 📚
