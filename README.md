@@ -59,12 +59,19 @@ Nesta pasta estão armazenados todos os documentos e relatórios das atividades 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias e Linguagens
 
+### Linguagens de Programação e Markup:
+- 🔤 **Portugol** - Pseudocódigo para lógica de programação
+- 🌐 **HTML5** - Estrutura de páginas web
+- 🎨 **CSS3** - Estilização e design responsivo
+- 📜 **JavaScript** - Interatividade e animações
+
+### Ferramentas e Formatos:
 - 📝 Documentação em Word/PDF
 - 🔍 Pesquisa acadêmica
 - 📊 Análise e relatórios
-- 🌐 HTML5, CSS3 e JavaScript (para GitHub Pages)
+- 🐙 Controle de versão com Git/GitHub
 
 ---
 
@@ -110,6 +117,7 @@ ou visite: https://lemes007.github.io/ProjetosCEUB/
 - 🔌 Dispositivos de Entrada e Saída (E/S)
 - 📜 História da Computação
 - 💡 Tecnologia e Inovação
+- 🔤 Lógica de Programação (Portugol)
 
 ---
 
@@ -118,7 +126,8 @@ ou visite: https://lemes007.github.io/ProjetosCEUB/
 | Métrica | Valor |
 |---------|-------|
 | **Projetos** | 3 |
-| **Disciplinas** | 4 |
+| **Disciplinas** | 5 |
+| **Linguagens** | Portugol, HTML5, CSS3, JavaScript |
 | **Ano de Criação** | 2026 |
 | **Instituição** | CEUB |
 
